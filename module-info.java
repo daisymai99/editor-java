@@ -1,0 +1,2 @@
+module Desktop_application {
+}
